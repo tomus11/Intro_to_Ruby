@@ -1,0 +1,5 @@
+five_fact = 5*4*3*2
+puts five_fact
+puts 6 * five_fact
+puts 7*6*five_fact
+puts 8*7*6*five_fact

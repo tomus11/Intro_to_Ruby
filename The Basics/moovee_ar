@@ -1,0 +1,3 @@
+moovee_ar = [1977, 1984, 1982]
+
+puts moovee_ar

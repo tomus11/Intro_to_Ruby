@@ -1,0 +1,14 @@
+def string_leng
+  puts "Please entah a strang"
+  string = gets.chomp
+
+  len = string.length
+
+  if len >= 10
+    string.upcase!
+    puts string
+  else
+    puts "Strang too shurt tuh futz wiff"
+  end
+end
+string_leng
